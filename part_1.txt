@@ -1,0 +1,11 @@
+1.	https://swapi.dev/api/people/4
+2.	https://swapi.dev/api/planets/2/
+3.	https://swapi.dev/api/starships/10/
+4.	https://swapi.dev/api/species/2/
+5.	https://swapi.dev/api/film/1/
+	https://swapi.dev/api/film/2/
+	https://swapi.dev/api/film/3/
+	https://swapi.dev/api/film/4/
+	https://swapi.dev/api/film/5/
+
+6.	https://swapi.dev/api/starships/?search=Millennium Falcon
